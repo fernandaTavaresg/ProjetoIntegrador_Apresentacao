@@ -45,6 +45,7 @@ GRUPO:
 
 ## Conhecimento das disciplinas (Fernanda)
 // topicos dos conhecimentos relacionados a IoT, Mobile e Teste
+// exemplificar mais sobre os testes
 
 ## Interfaces Gráficas (Jonathan)
 // apresentacao de todas as telas e explicações
