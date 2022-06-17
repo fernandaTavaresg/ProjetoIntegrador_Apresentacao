@@ -11,14 +11,10 @@ GRUPO:
 
  JONATHAN LEONCIO DE SOUZA LIRA
  
- ## Proposta do Projeto (Poliana)
+## Introdução
 
- ### Introdução
- Pensando no desperdício dos alimentos, no tempo de maturidade e como ele é exposto no local (galpões, supermercados, feiras etc.) e no transporte.
 
- será feito o controle de amadurecimento dos alimentos perecíveis (frutas e hortaliças), buscando assim soluções para evitar esse desperdício.
-
-De acordo com Kader (1986), a perda, por exemplo, de água causa murchamento dos frutos, quando esta atinge 5%.
+## Proposta do Projeto (Poliana)
 ### Justificativa 
 Segundo a Empresa Brasileira de Pesquisa Agropecuária (Embrapa), o desperdício de alimentos no Brasil acontece em toda a cadeia de produção:
 
@@ -29,6 +25,7 @@ Segundo a Empresa Brasileira de Pesquisa Agropecuária (Embrapa), o desperdício
 30% perdido na comercialização e abastecimento
 
 10% é jogado fora nos supermercados, restaurantes e em nossas próprias casas
+
 ### Objetivos
 USCANDO FORMAS DE REDUZIR O DESPERDÍCIO DESSES ALIMENTOS, ATRAVÉS DA IMPLEMENTAÇÃO DE UM APLICATIVO PARA O CONTROLE DAS FRUTAS E HORTALIÇAS
 ### Especificos:
@@ -40,7 +37,7 @@ PESQUISAS E TESTES
 DESENVOLVIMENTO DE APLICATIVO
 DISPOSITIVO DE GERENCIAMENTO:
 SENSORES DE MONITORAMENTO (TEMPERATURA, UMIDADE)
- 
+
 ## Diagrama de Gantt e Atividades (Fernanda)
 
 ```mermaid
