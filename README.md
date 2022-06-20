@@ -15,7 +15,7 @@ GRUPO:
 Devido ao grande número de desperdício de alimentos, principalmente em relação a frutas e hortaliças que acabam durando menos que os demais alimentos. As vezes por fatores simples, como temperatura do ambiente, umidade desse alimento, condições de ambiente e transporte. Visto que muitos desses fatores são ignorados, ou muitas vezes os vendedores ou pessoas que transportam e até clientes não dispõem do conhecimento sobre a condição adequada para a melhor conversação.
 
 ## Proposta do Projeto (Poliana)
-O nosso projeto busca o acompanhamento do amadurecimento das frutas e hortaliças através de um aplicativo para dispositivos móveis.
+
 ### Justificativa (MELHORAR ISSO)
 Segundo a Empresa Brasileira de Pesquisa Agropecuária (Embrapa), o desperdício de alimentos no Brasil acontece em toda a cadeia de produção:
 
@@ -27,11 +27,21 @@ Segundo a Empresa Brasileira de Pesquisa Agropecuária (Embrapa), o desperdício
 
 10% é jogado fora nos supermercados, restaurantes e em nossas próprias casas
 
-### Objetivos (TIRAR DE MAIUSCULO)
-BUSCANDO FORMAS DE REDUZIR O DESPERDÍCIO DESSES ALIMENTOS, ATRAVÉS DA IMPLEMENTAÇÃO DE UM APLICATIVO PARA O CONTROLE DAS FRUTAS E HORTALIÇAS
-### Especificos:
-CONHECIMENTO DAS DISCIPLINAS
-PESQUISAS E DESENVOLVIMENTO
+### Objetivos
+Buscando formas de reduzir o desperdício desses alimentos, através da implementação de um aplicativo para o controle das frutas e hortaliças
+### Objetivos Especificos:
+Conhecimento das disciplinas e área para o desenvolvimento (No relatório tem um tópico especifico sobre conhecimento das disciplinas que serão utilizados)
+
+Conhecimento da conversação de frutas e hortaliças como também o cultivo
+
+Desenvolvimento de Protótipos (Aplicativo e Dispositivo Arduino)
+
+Desenvolvimento de Aplicativo Mobile
+
+Desenvolvimento do Dispositivo em Arduino
+
+Produção da documentação
+
 
 ## Diagrama de Gantt e Atividades (Fernanda)
 
@@ -87,10 +97,12 @@ A Interface Inicial do aplicativo, que será a primeira a ser exibida para os us
 
 ### Interface 2: Login e Cadastro 
 As Próximas Interfaces são: Cadastro, em que os usuários poderão registrar seus dados, deixando-os armazenados para os próximos acessos os dados, que deverão ser preenchidos são Nome da Empresa ou nome do Responsável pela empresa, email para login e a senha de acesso do sistema, também possui a logomarca para identificação e o botão para confirmação do formulário. Já para a tela de realizar login, possui o preenchimento dos dados de email e senha, que haverá a verificação para o login, e o botão para avançar.
+
 ![tela Login](login.jpg) ![tela cadastro](cadastro.jpg)
 
 ### Interface 3 : Menu das frutas/verduras
 Para o usuário selecionar as opções das frutas disponíveis é clicar no botão da imagem da fruta necessária ou hortaliça. Caso não tenha o botão da fruta ou hortaliça no menu, será pesquisado atras do botão "outras opções" no espaço ou o usuário colocará digitado a fruta ou hortaliça e clica no botão da lupa de pesquisar. Após clicar em fruta disponível no menu ou escrever a opção vai ser enviada para outra tela com a dica da fruta ou hortaliça.
+
 ![Menu Frutas](menu.jpg)
 
 ### Interface 4 : Menu de dados
@@ -100,24 +112,31 @@ Após escolher a fruta ou verdura que será analisada pelo dispositivo, o usuár
 
 ### Interface 5 : Temperatura
 Logo após passar pela Tela do MENU de DADOS, e anteriormente escolhido o tipo de de fruta ou verdura para análise, e posteriormente definido a CATEGORIA DO INDICADOR DE MEDIDA DE CONDIÇÕES dos produtos, você chegará a esta tela acerca da TEMPERATURA, embora esteja explícito a informação dos dados exclusivamente da fruta MAÇÃ, você pode optar por escolher qualquer outro tipo de dado sobre uma outra fruta, ou hortaliça de seu interesse/necessidade.
+
 ![temperatura](temper.jpg)
 
 ### Interface 6 : Umidade
 Nesta tela destacar o informe do percentual adequado de Umidade para determinadas frutas e hortaliças em geral, pois boa parte precisam de uma umidade correspondente a umidade relativa ao seu ambiente natural, com 50 %, pois Umidade muito abaixo causa o ressecamento desses produtos e leva ao inevitável perda de nutrientes
+
 ![umidade](umidade.jpg)
 
 ### Interface 7 : Ambiente
 Após passar pela Interface correspondente ao MENU de DADOS, nesta tela de direcionamento referente ao AMBIENTE é importante que O bom uso do frio por meio de uma Cadeia de Refrigeração bem ativado & Organizada uma grande importância na manutenção da qualidade das frutas e /ou hortaliças. Ao respirar como quaisquer plantas das plantas as frutas/horizonte continuando e transpirando como vivo. Aqui o Usuário/cliente terá a oportunidade de conferir tipos de locais mais adequados para o controle total dos produtos de seu interesse
+
 ![ambiente](ambient.jpg)
 
 ### Interface 8 : Transporte
 Nesta interface a imagem do transporte é apenas ilustrativa não serve como botão. No eclipse com fundo verde que demonstrará através de uma nova temperatura é um botão que irá mostrar a página que medirá a temperatura máxima, média e outro eclipse com imagem de mapa é um botão que analisaremos se será necessário uma interface ou será um link para páginas.
+
 ![transporte](transporte.jpg)
 
 ### Interface 9 : Dicas
 Ao clicar na fruta escolhida que está na interface de menu, o usuário vai abrir uma nova interface denominada como “dicas”,  de acordo com cada fruta ou hortaliça escolhida vai ser apresentado dicas sobre o produto. As dicas informam como manter o estado de conservação e como as frutas podem ser bem conservadas. Já nas hortaliças as dicas variam de acordo com a escolha da hortaliça. A temperatura e forma de limpeza são exemplos de dicas dessas interfaces, entre outras dicas.
+
 ![dicas](dicas.jpg)
 
-### Referências
+## Conclusão
+
+## Referências
 Interfaces desenvolvidas no site Figma, acesso em: https://www.figma.com/file/8SHqs54sIrCo1XMQjrcTdA/Untitled?node-id=0%3A1
 Visualização para Dispositivos móveis (celulares), mas também será responsivo para diversos dispositivos. Exemplo de visualização no dispositivo, acesso em: https://www.figma.com/proto/8SHqs54sIrCo1XMQjrcTdA/Untitled?node-id=2%3A2&scaling=contain&page-id=0%3A1
