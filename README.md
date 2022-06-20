@@ -120,6 +120,7 @@ Conhecimentos esses obtidos na disciplina de Teste de Software, referente a ferr
 #### Nesta interface a imagem do transporte é apenas ilustrativa não serve como botão. No eclipse com fundo verde que demonstrará através de uma nova temperatura é um botão que irá mostrar a página que medirá a temperatura máxima, média e outro eclipse com imagem de mapa é um botão que analisaremos se será necessário uma interface ou será um link para páginas.
 ![transporte](transporte.jpg)
 
+
 ### Interface 9 : DicasAo clicar na fruta escolhida que está na interface de menu, o usuário vai abrir uma nova interface denominada como “dicas”,  de acordo com cada fruta ou hortaliça escolhida vai ser apresentado dicas sobre o produto. As dicas informam como manter o estado de conservação e como as frutas podem ser bem conservadas. Já nas hortaliças as dicas variam de acordo com a escolha da hortaliça. A temperatura e forma de limpeza são exemplos de dicas dessas interfaces, entre outras dica.
 
 
