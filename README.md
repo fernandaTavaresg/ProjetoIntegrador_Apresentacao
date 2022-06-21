@@ -16,7 +16,9 @@ Devido ao grande número de desperdício de alimentos, principalmente em relaç�
 
 ## Proposta do Projeto (Poliana)
 
-### Justificativa (MELHORAR ISSO)
+### Justificativa 
+Devido ao grande número de desperdício desses alimentos, que acontece diariamente, buscamos uma forma de reduzir esses dados, seja no ambiente, transporte e até mesmo disponibilizando conhecimento para os transportadores, comerciantes.
+
 Segundo a Empresa Brasileira de Pesquisa Agropecuária (Embrapa), o desperdício de alimentos no Brasil acontece em toda a cadeia de produção:
 
 10% do que é colhido se perde ainda no campo 
@@ -136,6 +138,7 @@ Ao clicar na fruta escolhida que está na interface de menu, o usuário vai abri
 ![dicas](dicas.jpg)
 
 ## Conclusão
+Visando o desenvolvimento desse sistema para controle de frutas e verduras, buscamos formas de redução do desperdício desses alimentos. Pelas nossas pesquisas não encontramos nenhum sistema ou projeto nesse contexto, o que o torna mais especial. Mas para sua melhor implementação alguns pontos podem ser melhorados, em relação ao conteúdo que será apresentado ao usuário, como também a implementação e disponibilização do dispositivo e do aplicativo para realmente ser utilizado.
 
 ## Referências
 Interfaces desenvolvidas no site Figma, acesso em: https://www.figma.com/file/8SHqs54sIrCo1XMQjrcTdA/Untitled?node-id=0%3A1
